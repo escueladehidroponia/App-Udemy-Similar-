@@ -1,0 +1,5 @@
+{
+  "name": "CoursePlat AI",
+  "description": "An AI-powered online learning platform inspired by Udemy. Browse an extensive catalog of courses and interact with an intelligent course assistant to get your questions answered instantly based on the curriculum.",
+  "requestFramePermissions": []
+}
